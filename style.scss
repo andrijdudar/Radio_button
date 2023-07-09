@@ -2,6 +2,7 @@
   display: none;
   background-color: red;
   color: gray;
+  pointer-events: all;
 }
 
 .input[type="radio"]:checked + .button {
