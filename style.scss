@@ -1,6 +1,7 @@
 .input {
   display: none;
   font-family: "Courier New", Courier, monospace;
+  background-color: black;
 }
 
 .input[type="radio"]:checked + .button {
